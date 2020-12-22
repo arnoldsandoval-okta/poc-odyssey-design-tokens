@@ -1,0 +1,11 @@
+{
+  "color": {
+    "border": {
+      "color-background": { "value": "{color.base.white.value}" },
+      "color-background-body": { "value": "{color.base.white.value}" },
+      "color-background-body-inverse": { "value": "{color.base.gray.900.value}" },
+      "color-background-content": { "value": "{color.base.gray.900.value}" },
+      "color-background-content-inverse": { "value": "{color.base.gray.900.value}" }
+    }
+  }
+}

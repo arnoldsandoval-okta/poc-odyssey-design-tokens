@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 22 Dec 2020 03:21:06 GMT
+-->
+<resources>
+  <color name="color_border_color_background">#ffffffff</color>
+  <color name="color_border_color_background_body">#ffffffff</color>
+  <color name="color_border_color_background_body_inverse">#ff1d1d21</color>
+  <color name="color_border_color_background_content">#ff1d1d21</color>
+  <color name="color_border_color_background_content_inverse">#ff1d1d21</color>
+  <color name="color_border_display">#ff8c8c96</color>
+  <color name="color_border_ui">#ff6e6e78</color>
+  <color name="color_base_white">#ffffffff</color>
+  <color name="color_base_gray_100">#ffebebed</color>
+  <color name="color_base_gray_200">#ffd7d7dc</color>
+  <color name="color_base_gray_500">#ff8c8c96</color>
+  <color name="color_base_gray_600">#ff6e6e78</color>
+  <color name="color_base_gray_900">#ff1d1d21</color>
+  <color name="color_base_gray_000">#fff5f5f6</color>
+  <color name="color_base_blue_300">#ffa7b5ec</color>
+  <color name="color_base_blue_400">#ff788ee2</color>
+  <color name="color_base_blue_500">#ff1662dd</color>
+  <color name="color_base_blue_900">#ff00297a</color>
+  <color name="color_base_blue_000">#fff2f5ff</color>
+  <color name="color_base_green_300">#ff84d2b1</color>
+  <color name="color_base_green_500">#ff00b478</color>
+  <color name="color_base_green_600">#ff008055</color>
+  <color name="color_base_green_900">#ff00503c</color>
+  <color name="color_base_green_000">#ffe5faf3</color>
+  <color name="color_base_red_300">#fff88c90</color>
+  <color name="color_base_red_500">#ffda372c</color>
+  <color name="color_base_red_900">#ff640019</color>
+  <color name="color_base_red_000">#ffffdfe2</color>
+  <color name="color_base_yellow_300">#fff9dc77</color>
+  <color name="color_base_yellow_500">#ffffc61c</color>
+  <color name="color_base_yellow_900">#ff663800</color>
+  <color name="color_base_yellow_000">#fffaf5dc</color>
+  <color name="color_base_turquoise_400">#ff65adb7</color>
+  <color name="color_base_turquoise_500">#ff2d8c9e</color>
+  <color name="color_base_purple_500">#ff8d6e97</color>
+  <color name="color_font_base">#ff1d1d21</color>
+  <color name="color_font_secondary">#ff1d1d21</color>
+  <color name="color_font_tertiary">#ff1d1d21</color>
+  
+</resources>

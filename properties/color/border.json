@@ -1,0 +1,8 @@
+{
+  "color": {
+    "border": {
+      "display": { "value": "{color.base.gray.500.value}" },
+      "ui": { "value": "{color.base.gray.600.value}" }
+    }
+  }
+}
