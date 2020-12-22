@@ -3,10 +3,11 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
+      "buildPath": "build/css/",
       "files": [
         {
-          "format": "css/variables",
-          "destination": "build/variables.css"
+          "destination": "variables.css",
+          "format": "css/variables"
         }
       ]
     },
