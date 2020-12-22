@@ -3,6 +3,7 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
+      "prefix": "ods",
       "buildPath": "build/css/",
       "files": [
         {
@@ -13,6 +14,7 @@
     },
     "scss": {
       "transformGroup": "scss",
+      "prefix": "ods",
       "buildPath": "build/scss/",
       "files": [{
         "destination": "_variables.scss",
@@ -21,6 +23,7 @@
     },
     "android": {
       "transformGroup": "android",
+      "prefix": "ods",
       "buildPath": "build/android/",
       "files": [{
         "destination": "font_dimens.xml",
@@ -32,6 +35,7 @@
     },
     "ios": {
       "transformGroup": "ios",
+      "prefix": "ods",
       "buildPath": "build/ios/",
       "files": [{
         "destination": "StyleDictionaryColor.h",
@@ -77,6 +81,7 @@
     },
     "ios-swift": {
       "transformGroup": "ios-swift",
+      "prefix": "ods",
       "buildPath": "build/ios-swift/",
       "files": [{
         "destination": "StyleDictionary.swift",
@@ -87,6 +92,7 @@
     },
     "ios-swift-separate-enums": {
       "transformGroup": "ios-swift-separate",
+      "prefix": "ods",
       "buildPath": "build/ios-swift/",
       "files": [{
         "destination": "StyleDictionaryColor.swift",
